@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Rei-x/Rei-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-Here are some ideas to get you started:
+I'm a student who is passionate about writing high-quality code, which is easily readable by others.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech stack
+
+- 💻 Javascript | Typescript | Python
+- 📶 NodeJS | ExpressJS | ReactJS
+- 🚪 MongoDB | MySQL
+
+## 👱‍♂️ About me
+
+- 📚 I’m currently learning  backend web development using MERN stack.
+- 👯 I’m looking for a software development internship.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bartosz-gotowski-1a1696210/) [Gmail](mailto:bartoszgotowski03@gmail.com)
+
+
+<hr>
+<br>
+
+![Rei's github stats](https://github-readme-stats.vercel.app/api?username=rei-x&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
