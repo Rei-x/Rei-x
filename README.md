@@ -25,4 +25,4 @@ I'm a student who is passionate about writing high-quality code, which is easily
 <hr>
 <br>
 
-![Rei's github stats](https://github-readme-stats.vercel.app/api?username=rei-x&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+![Rei's github stats](https://github-readme-stats.vercel.app/api?username=rei-x&&show_icons=true&title_color=ffffff&icon_color=48cbe8&text_color=daf7dc&bg_color=151515)
