@@ -4,6 +4,11 @@
 
 I'm a student who is passionate about writing high-quality code, which is easily readable by others.
 
+## ❤ My projects
+
+- 🎤 Speech recognition extension for discord bots [click](https://www.npmjs.com/package/discord-speech-recognition)
+- 🔆 Blog for everyone, focused on yellow color [click](https://yellowblog.netlify.app)
+
 ## 🛠 Tech stack
 
 - 💻 Javascript | Typescript | Python
