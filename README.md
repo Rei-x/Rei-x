@@ -4,9 +4,9 @@
 
 ## ❤ Projects
 
-- 🎤 Speech recognition extension for discord bots [click](https://www.npmjs.com/package/discord-speech-recognition)
-- 🐈 Realtime multiplayer memory game [click]()
-- 🔆 Something like Twitter, but yellow [click](https://yellowblog.netlify.app)
+- 🎤 Speech recognition extension for discord bots [click](https://github.com/Rei-x/discord-speech-recognition)
+- 🐈 Realtime multiplayer memory game [click](https://github.com/Rei-x/memory-game)
+- 🔆 Something like Twitter, but yellow [click](https://github.com/Rei-x/yellow-blog)
 
 ## 🛠 Tech stack
 
