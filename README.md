@@ -4,7 +4,7 @@
 
 - 🎤 Speech recognition extension for discord bots [click](https://github.com/Rei-x/discord-speech-recognition)
 - 🐈 Realtime multiplayer memory game [click](https://github.com/Rei-x/memory-game)
-- 🔆 Something like Twitter, but yellow [click](https://github.com/Rei-x/yellow-blog)
+- 📚 Search for books from Project Gutenberg [click](https://github.com/Rei-x/my-book)
 
 ## 🛠 Tech stack
 
