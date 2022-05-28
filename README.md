@@ -3,8 +3,10 @@
 ## ❤ Projects
 
 - 🎤 Speech recognition extension for discord bots [click](https://github.com/Rei-x/discord-speech-recognition)
-- 🐈 Realtime multiplayer memory game [click](https://github.com/Rei-x/memory-game)
 - 📚 Search books from Project Gutenberg [click](https://github.com/Rei-x/my-book)
+- 📒 Twitter, but yellow [click](https://github.com/Rei-x/yellow-blog)
+- 💻 Portfolio website for graphic designer [click](https://github.com/Rei-x/portfolio-gatsby)
+
 
 ## 🛠 Tech stack
 
