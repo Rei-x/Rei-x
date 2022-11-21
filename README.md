@@ -3,8 +3,8 @@
 ## ❤ Projects
 
 - 🎤 Speech recognition extension for discord bots [click](https://github.com/Rei-x/discord-speech-recognition)
+- 🤖 AI historical quiz generator (2nd place in HackYeah 2022) [click](https://github.com/Rei-x/HiStory)
 - 📚 Search books from Project Gutenberg [click](https://github.com/Rei-x/my-book)
-- 📒 Twitter, but yellow [click](https://github.com/Rei-x/yellow-blog)
 - 💻 Portfolio website for graphic designer [click](https://github.com/Rei-x/portfolio-gatsby)
 
 
