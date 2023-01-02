@@ -7,14 +7,6 @@
 - 📚 Search books from Project Gutenberg [click](https://github.com/Rei-x/my-book)
 - 💻 Portfolio website for graphic designer [click](https://github.com/Rei-x/portfolio-gatsby)
 
-
-## 🛠 Tech stack
-
-- 💻 Typescript
-- 📶 ExpressJS | ReactJS | NextJS | GatsbyJS
-- 🖌 SCSS | Tailwind CSS | styled components
-- 🚪 MongoDB | Firebase Realtime Database
-
 <hr>
 <br>
 
