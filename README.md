@@ -1,2 +1,2 @@
 # hello jello 🧫
-![jello](https://media.tenor.com/uTUrudK6OqkAAAAM/jello-hi.gif)
+![jello](https://i.imgur.com/p4nLc8O.gif)
